@@ -7,7 +7,7 @@ public class add2 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		int x,y,sum;
+		int x,y,sum,w;
 
 		System.out.println("enter two numbers");
 		Scanner scan = new Scanner(System.in);
