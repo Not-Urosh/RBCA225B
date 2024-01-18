@@ -16,6 +16,14 @@ public class add2 {
 		sum=x+y;
 		System.out.println("the sum is moye moye: "+sum);
 		
+		int n,m,sub;
+		System.out.println("enter two numbers");
+		Scanner scn = new Scanner(System.in);
+		n=scan.nextInt();
+		m=scan.nextInt();
+		sub=n-m;
+		System.out.println("the sum is moye moye: "+sub);
+		
 	}
 
 }
