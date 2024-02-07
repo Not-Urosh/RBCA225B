@@ -10,7 +10,7 @@ import org.junit.Test;
 
 public class nmcodeTest {
 	static nmcode d;
-	int num1,num2,expected,result;
+	int num1,num2,expected,result,M;
 
 	@BeforeClass
 	public static void setUpBeforeClass() throws Exception {
